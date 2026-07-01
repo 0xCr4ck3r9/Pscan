@@ -71,9 +71,8 @@ The script utilizes the `socket` library to attempt a connection to every port o
 
 ## 👤 Credits
 
-* **Author:** Cr7cker
+* **Author:** 0xCr4ck3r
 * **Language:** Python
-
 ---
 
 Would you like me to add a **Requirements.txt** file or suggest a way to make the scan faster using multi-threading?
